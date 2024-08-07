@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title data-i18n="title">Fractal Art Website</title>
+    <link rel="icon" type="image/x-icon" href="./assets/img/favicon.ico">
+    <link rel="stylesheet" href="./static/css/styles.css">
+    <link rel="stylesheet" href="./static/css/header.css">
+    <link rel="stylesheet" href="./static/css/footer.css">
+    <link rel="stylesheet" href="./static/css/media.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="logo" data-i18n="logo">Fractal Art Website</div>
+            <div class="nav-container">
+                <ul class="nav-links">
+                    <li><a href="#home" data-i18n="nav-home">Home</a></li>
+                    <li><a href="./about.html" data-i18n="nav-about">About me</a></li>
+                </ul>
+                <!--<div class="language-switcher">
+                    <a href="#" data-lang="en"><img src="assets/img/gb.jpg" alt="English"></a>
+                    <a href="#" data-lang="pl"><img src="assets/img/pl.png" alt="Polish"></a>
+                    <a href="#" data-lang="de"><img src="assets/img/de.png" alt="German"></a>
+                </div>-->
+            </div>
+        </nav>
+    </header>
+
+    <main>
+
+        <section id="home" class="hero-section">
+            <div class="hero-frame">
+                <div class="hero-content">
+                    <h1 data-i18n="hero-title">Welcome to Fractal Art Website</h1>
+                    <p data-i18n="hero-text">I'm Patrick Schröder, a software engineer with a master's degree in computer science. On this website, I'm presenting my art made with fractals, blending mathematics and creativity. Explore my works and get in touch!</p>
+                </div>
+            </div>
+        </section>
+
+        <section class="art-section">
+            <div class="art-grid">
+                <div class="art-item">
+                    <img src="./assets/img/inspiration.jpg" alt="Project 1">
+                    <h2 data-i18n="ins-title">Inspiration</h2>
+                    <a href="#" class="view-more" data-i18n="view-more">View more</a>
+                </div>
+                <div class="art-item">
+                    <img src="./assets/img/flowers.jpg" alt="Project 2">
+                    <h2 data-i18n="sfd-title">Spring Flowers Draft</h2>
+                    <a href="#" class="view-more" data-i18n="view-more">View more</a>
+                </div>
+                <div class="art-item">
+                    <img src="./assets/img/set9.png" alt="Project 3">
+                    <h2 data-i18n="jsd-title">Julia Set Draft</h2>
+                    <a href="#" class="view-more" data-i18n="view-more">View more</a>
+                </div>
+                <div class="art-item">
+                    <img src="./assets/img/set3.png" alt="Project 3">
+                    <h2 data-i18n="msd-title">Mandelbrot Set Draft</h2>
+                    <a href="#" class="view-more" data-i18n="view-more">View more</a>
+                </div>
+            </div>
+        </section>
+        
+    </main>
+    
+    <footer>
+        <p data-i18n="copyright">&copy; 2024, Patrick Schröder, Fractal Art Website. All rights reserved. All logos are trademarks of their respective owners and are used here for informational purposes only.</p>
+    </footer>
+</body>
+</html>
