@@ -7,22 +7,22 @@ body {
 }
 
 .hero-section {
-    background: url('../../assets/img/sesja2100_no_logo.jpg') no-repeat center center/cover;
+    background: url('../../assets/img/sesja3153.jpg') no-repeat center center/cover;
     color: #fff;
     text-align: center;
-    background-size: 100% 100%;
+    background-size: contain;
     width: 100%;
-    height: 0;
-    padding-bottom: 80%;
+    height: auto;
+    padding-bottom: 140.01%;
     display: flex;
     justify-content: flex-end;
     align-items: center;
     position: relative;
 }
 
-.hero-frame {
+.about-frame {
     position: absolute;
-    top: 30%;
+    top: 40%;
     right: 0;
     transform: translateY(-50%);
     background-color: rgba(0, 0, 0, 0.5);
@@ -32,12 +32,18 @@ body {
     box-shadow: -2px 0 10px rgba(0, 0, 0, 0.2);
 }
 
-.hero-content h1 {
-    font-size: 2.5em;
+.about-content h1 {
+    font-size: 3em;
+    padding-bottom: 40px;
     margin: 0;
 }
 
-.hero-content p {
-    font-size: 1.2em;
+.about-content p {
+    font-size: 1.8em;
     margin: 10px 0 0;
+}
+
+a {
+    font-family: 'Arial', sans-serif;
+    font-size: 1.8em;
 }

@@ -5,7 +5,7 @@ const translations = {
         "nav-home": "Home",
         "nav-about": "About me",
         "hero-title": "Welcome to Fractal Art Website",
-        "hero-text": "I'm Patrick Schröder, a software engineer with a master's degree in computer science. On this website, I'm presenting my art made with fractals, blending mathematics and creativity. Explore my works and get in touch!",
+        "hero-text": "On this website, I'm presenting my art made with fractals, blending mathematics and creativity. Explore my works and get in touch!",
         "ins-title": "Inspiration",
         "sfd-title": "Spring Flowers Draft",
         "jsd-title": "Julia Set Draft",
