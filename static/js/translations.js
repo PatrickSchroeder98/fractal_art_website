@@ -8,37 +8,129 @@ const translations = {
         "hero-text": "On this website, I'm presenting my art made with fractals, blending mathematics and creativity. Explore my works and get in touch!",
         "ins-title": `"Inspiration"`,
         "sfd-title": "Spring Flowers Draft",
-        "jsd-title": "Julia Set Draft",
-        "msd-title": "Mandelbrot Set Draft",
+        "jsd-title": "Julia Set Drafts",
+        "msd-title": "Mandelbrot Set Drafts",
         "view-more": "View more",
 
         "about-title": "About me",
-        "about-text": `I'm Patrick Schröder, a software engineer with a master's degree in computer science. My passion for fractals started when I got an assignment at the University of Łódź to generate the Mandelbrot set. Since then, I have been creating designs, exploring the set by zooming in on various coordinates. <br><br><br> 
+        "about-text-1": "I'm Patrick Schröder, a software engineer with a master's degree in computer science. My passion for fractals started when I got an assignment at the University of Łódź to generate the Mandelbrot set. Since then, I have been creating designs, exploring the sets by zooming in on various coordinates.",
+        "about-text-2": "I also started to develop Julia set drafts as well as other fractals. My recent painting 'Anxiety' uses the shape of the Burning Ship fractal.",
+        "about-text-3": "The Julia set is worth mentioning here because I'm working with a version that includes a self-discovered modification, making the background shapes much more visible.",
+        "about-text-4": "I also experiment with merging fractals with pictures. One particular achievement in this field is the draft of 'Spring Flowers.' You can see this painting printed and framed.",
+        "about-text-5": "Now, I'm still creating various pieces of art, merging the sets and coloring them with RGB or HSV functions. The best paintings are printed and framed. The details are presented on this website.",
+        "about-text-6": "To see more of my works, visit my",
 
-                    I also started to develop Julia set drafts as well as other fractals. My recent painting 'Anxiety' uses the shape of the Burning Ship fractal. Of course, there is more to come in the future. <br><br><br> 
-                    
-                    The Julia set is worth mentioning here because I'm working with a version that includes a self-discovered modification, making the background shapes much more visible. <br><br><br> 
-                    
-                    I also experiment with merging fractals with pictures. One particular achievement in this field is the draft of 'Spring Flowers.' You can see this painting printed and framed. <br><br><br>  
-                    
-                    Now, I'm still creating various pieces of art, merging the sets and coloring them with RGB or HSV functions. The best paintings are printed and framed. The details are presented on this website. <br><br><br> 
-                    
-                    To see more of my works, visit my`,
-        "ins-artist": "<strong>Artist:</strong> Patrick Schröder",
-        "ins-year": "<strong>Year:</strong> 2024</p>",
-        "ins-medium": "<strong>Medium:</strong> Poster paper 200; printer: Eco Solvent Mutoh",
-        "ins-size": "<strong>Size:</strong> 124,5 cm x 89 cm",
+        "artist": "Artist: Patrick Schröder",
+        "ins-year": "Year: 2024",
+        "ins-medium": "Medium: Poster paper 200; printer: Eco Solvent Mutoh",
+        "ins-size": "Size: 124,5 cm x 89 cm",
         "ins-description": "This painting represents an idea forming in the mind. The viewer can see the clarified idea in the center, as well as a shadow in the background representing the idea that has not fully formed. Both the idea and the shadow share the same shape, symbolizing the connection between these two elements. Some parts of the idea are visible behind a fog, representing the need for learning and exploration while being inspired.",
 
-        "copyright": "\xa9 2024, Patrick Schröder, Fractal Art Website v1.0.0. All rights reserved. All logos are trademarks of their respective owners and are used here for informational purposes only.",
+        "sfd-year": "Year: 2024",
+        "sfd-medium": "Medium: Poster paper",
+        "sfd-size": "Size: 32,5 cm x 40,5 cm ",
+        "sfd-description": "This draft was created using a technique that merges fractals with photos. It creates a unique blend of realism and abstraction, playing with shapes and colors. Printed and framed, this painting is a testament to the various possibilities that the Python programming language can offer in the field of digital art.",
 
+        "msd-year": "Year: 2022 - 2024",
+        "msd-medium": "Medium: Digital files",
+        "msd-size": "Size: Various resolutions of images ",
+        "msd-description": "The Mandelbrot set marks the beginning of my digital art journey. I have created many drafts, which are presented here and on Instagram. I am still experimenting with various zoom levels, colored using RGB or HSV functions.",
+
+        "jsd-year": "Year: 2022 - 2024",
+        "jsd-medium": "Medium: Digital files",
+        "jsd-size": "Size: Various resolutions of images",
+        "jsd-description": "The Julia set is the second fractal that I'm exploring. Similar to the Mandelbrot set, I'm using various zoom levels and coloring functions. I also include a self-discovered modification in the equation that makes the lines in the background much more visible.",
+
+        "copyright": "\xa9 2024, Patrick Schröder, Fractal Art Website v1.0.0. All rights reserved. All logos are trademarks of their respective owners and are used here for informational purposes only.",
     },
 
     pl: {
+        "title": "Fraktalna Sztuka",
+        "logo": "Fraktalna Sztuka",
+        "nav-home": "Strona główna",
+        "nav-about": "O mnie",
+        "hero-title": "Witamy na Stronie o Fraktalnej Sztuce",
+        "hero-text": "Na tej stronie przedstawiam moją sztukę stworzoną za pomocą fraktali, łącząc matematykę i kreatywność. Odkryj moje prace i skontaktuj się!",
+        "ins-title": `"Inspiracja"`,
+        "sfd-title": "Szkic Wiosenne Kwiaty",
+        "jsd-title": "Szkice Zbioru Julii",
+        "msd-title": "Szkice Zbioru Mandelbrota",
+        "view-more": "Zobacz więcej",
 
+        "about-title": "O mnie",
+        "about-text-1": "Nazywam się Patrick Schröder, jestem inżynierem oprogramowania z tytułem magistra informatyki. Moja pasja do fraktali zaczęła się, gdy na Uniwersytecie Łódzkim otrzymałem zadanie wygenerowania zbioru Mandelbrota. Od tego czasu tworzę projekty, eksplorując zbiory poprzez powiększanie różnych współrzędnych.",
+        "about-text-2": "Zacząłem także tworzyć szkice zbioru Julii, jak również innych fraktali. Moje ostatnie dzieło 'Lęk' wykorzystuje kształt fraktalu Płonącego Statku.",
+        "about-text-3": "Zbiór Julii warto tu wspomnieć, ponieważ pracuję z wersją, która zawiera samodzielnie odkrytą modyfikację, dzięki której kształty w tle stają się bardziej widoczne.",
+        "about-text-4": "Eksperymentuję również z łączeniem fraktali z obrazami. Jednym z osiągnięć w tej dziedzinie jest szkic 'Wiosenne Kwiaty'. Można zobaczyć to dzieło wydrukowane i oprawione.", 
+        "about-text-5": "Teraz wciąż tworzę różne dzieła sztuki, łącząc zbiory i kolorując je funkcjami RGB lub HSV. Najlepsze obrazy są drukowane i oprawiane. Szczegóły są prezentowane na tej stronie.", 
+        "about-text-6": "Aby zobaczyć więcej moich prac, odwiedź mój",
+        "artist": "Artysta: Patrick Schröder",
+
+        "ins-year": "Rok: 2024",
+        "ins-medium": "Medium: Papier plakatowy 200; drukarka: Eco Solvent Mutoh",
+        "ins-size": "Rozmiar: 124,5 cm x 89 cm",
+        "ins-description": "To dzieło przedstawia ideę formującą się w umyśle. Widz może zobaczyć wyraźną ideę w centrum, a także cień w tle reprezentujący ideę, która nie jest jeszcze w pełni uformowana. Zarówno idea, jak i cień mają ten sam kształt, symbolizując związek między tymi dwoma elementami. Niektóre części idei są widoczne za mgłą, co reprezentuje potrzebę nauki i eksploracji podczas bycia zainspirowanym.",
+
+        "sfd-year": "Rok: 2024",
+        "sfd-medium": "Medium: Papier plakatowy",
+        "sfd-size": "Rozmiar: 32,5 cm x 40,5 cm",
+        "sfd-description": "Ten szkic został stworzony za pomocą techniki łączącej fraktale ze zdjęciami. Tworzy to unikalną mieszankę realizmu i abstrakcji, bawiąc się kształtami i kolorami. Wydrukowane i oprawione, to dzieło jest świadectwem różnych możliwości, jakie oferuje język programowania Python w dziedzinie sztuki cyfrowej.",
+
+        "msd-year": "Rok: 2022 - 2024",
+        "msd-medium": "Medium: Pliki cyfrowe",
+        "msd-size": "Rozmiar: Różne rozdzielczości obrazów",
+        "msd-description": "Zbiór Mandelbrota oznacza początek mojej podróży w sztuce cyfrowej. Stworzyłem wiele szkiców, które są prezentowane tutaj i na Instagramie. Nadal eksperymentuję z różnymi poziomami powiększenia, kolorując je funkcjami RGB lub HSV.",
+
+        "jsd-year": "Rok: 2022 - 2024",
+        "jsd-medium": "Medium: Pliki cyfrowe",
+        "jsd-size": "Rozmiar: Różne rozdzielczości obrazów",
+        "jsd-description": "Zbiór Julii to drugi fraktal, który eksploruję. Podobnie jak zbiór Mandelbrota, używam różnych poziomów powiększenia i funkcji kolorowania. Zawiera również samodzielnie odkrytą modyfikację w równaniu, która sprawia, że linie w tle stają się znacznie bardziej widoczne.",
+
+        "copyright": "\xa9 2024, Patrick Schröder, Strona o Fraktalnej Sztuce v1.0.0. Wszelkie prawa zastrzeżone. Wszystkie loga są znakami towarowymi ich właścicieli i są używane tutaj wyłącznie w celach informacyjnych.",
     },
 
     de: {
+        "title": "Fraktal-Kunst-Website",
+        "logo": "Fraktal-Kunst-Website",
+        "nav-home": "Startseite",
+        "nav-about": "Über mich",
+        "hero-title": "Willkommen auf der Fraktal-Kunst-Website",
+        "hero-text": "Auf dieser Website präsentiere ich meine Kunst, die mit Fraktalen geschaffen wurde, indem ich Mathematik und Kreativität verbinde. Entdecken Sie meine Werke und nehmen Sie Kontakt auf!",
+        "ins-title": `"Inspiration"`,
+        "sfd-title": "Frühlingsblumen-Entwurf",
+        "jsd-title": "Julia-Mengen-Entwürfe",
+        "msd-title": "Mandelbrot-Mengen-Entwürfe",
+        "view-more": "Mehr ansehen",
 
+        "about-title": "Über mich",
+        "about-text-1": "Ich bin Patrick Schröder, ein Software-Ingenieur mit einem Master-Abschluss in Informatik. Meine Leidenschaft für Fraktale begann, als ich an der Universität Łódź die Aufgabe erhielt, die Mandelbrot-Menge zu generieren. Seitdem entwerfe ich Designs und erkunde die Menge, indem ich auf verschiedene Koordinaten zoome.",
+        "about-text-2": "Ich begann auch, Julia-Mengen-Entwürfe sowie andere Fraktale zu entwickeln. Mein jüngstes Gemälde 'Anxiety' verwendet die Form des Burning-Ship-Fraktals.",
+        "about-text-3": "Erwähnenswert ist hier die Julia-Menge, da ich mit einer Version arbeite, die eine selbst entdeckte Modifikation enthält, die die Hintergrundformen viel sichtbarer macht.", 
+        "about-text-4": "Ich experimentiere auch mit der Verschmelzung von Fraktalen mit Bildern. Ein besonderes Highlight in diesem Bereich ist der Entwurf von 'Frühlingsblumen'. Sie können dieses Gemälde gedruckt und gerahmt sehen.", 
+        "about-text-5": "Derzeit erstelle ich weiterhin verschiedene Kunstwerke, indem ich die Mengen kombiniere und sie mit RGB- oder HSV-Funktionen einfärbe. Die besten Gemälde werden gedruckt und gerahmt. Die Details werden auf dieser Website präsentiert.", 
+        "about-text-6": "Um mehr von meinen Arbeiten zu sehen, besuchen Sie mein",
+
+        "artist": "Künstler: Patrick Schröder",
+        "ins-year": "Jahr: 2024",
+        "ins-medium": "Medium: Posterpapier 200; Drucker: Eco Solvent Mutoh",
+        "ins-size": "Größe: 124,5 cm x 89 cm",
+        "ins-description": "Dieses Gemälde stellt eine Idee dar, die sich im Kopf formt. Der Betrachter kann die geklärte Idee in der Mitte sehen, sowie einen Schatten im Hintergrund, der die noch nicht vollständig ausgeformte Idee darstellt. Sowohl die Idee als auch der Schatten teilen die gleiche Form, was die Verbindung zwischen diesen beiden Elementen symbolisiert. Einige Teile der Idee sind hinter einem Nebel sichtbar, was die Notwendigkeit von Lernen und Erkundung bei gleichzeitiger Inspiration repräsentiert.",
+
+        "sfd-year": "Jahr: 2024",
+        "sfd-medium": "Medium: Posterpapier",
+        "sfd-size": "Größe: 32,5 cm x 40,5 cm",
+        "sfd-description": "Dieser Entwurf wurde mit einer Technik erstellt, die Fraktale mit Fotos verbindet. Es entsteht eine einzigartige Mischung aus Realismus und Abstraktion, die mit Formen und Farben spielt. Gedruckt und gerahmt ist dieses Gemälde ein Zeugnis für die verschiedenen Möglichkeiten, die die Programmiersprache Python im Bereich der digitalen Kunst bieten kann.",
+
+        "msd-year": "Jahr: 2022 - 2024",
+        "msd-medium": "Medium: Digitale Dateien",
+        "msd-size": "Größe: Verschiedene Bildauflösungen",
+        "msd-description": "Die Mandelbrot-Menge markiert den Beginn meiner Reise in der digitalen Kunst. Ich habe viele Entwürfe erstellt, die hier und auf Instagram präsentiert werden. Ich experimentiere weiterhin mit verschiedenen Zoomstufen, eingefärbt mit RGB- oder HSV-Funktionen.",
+
+        "jsd-year": "Jahr: 2022 - 2024",
+        "jsd-medium": "Medium: Digitale Dateien",
+        "jsd-size": "Größe: Verschiedene Bildauflösungen",
+        "jsd-description": "Die Julia-Menge ist das zweite Fraktal, das ich erkunde. Ähnlich wie bei der Mandelbrot-Menge verwende ich verschiedene Zoomstufen und Farbgebungsfunktionen. Ich nehme auch eine selbst entdeckte Modifikation in die Gleichung auf, die die Linien im Hintergrund viel sichtbarer macht.",
+
+        "copyright": "\xa9 2024, Patrick Schröder, Fraktal-Kunst-Website v1.0.0. Alle Rechte vorbehalten. Alle Logos sind Marken ihrer jeweiligen Besitzer und werden hier nur zu Informationszwecken verwendet.",
     }
 }
