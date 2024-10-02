@@ -6,7 +6,7 @@ Welcome to the Fractal Art Website, a platform for exploring the captivating wor
 
 - **Fractal Art Showcase:** View multiple fractal-based artworks, such as "Inspiration," "Spring Flowers Draft," "Julia Set Drafts," and "Mandelbrot Set Drafts."
 - **Responsive Design:** The website is optimized for various screen sizes and devices.
-- **Dynamic Image Scaling:** The artworks and badge column scale proportionally, ensuring a clean layout with no unnecessary white spaces.
+- **Dynamic Image Scaling:** The artworks and scale proportionally, ensuring a clean layout with no unnecessary white spaces.
 - **Multi-language Support:** The site supports English, Polish, and German translations.
 - **About the Artist:** A detailed section introducing Patrick Schröder, the artist behind the works, including his journey into fractal art and his artistic techniques.
 
@@ -68,4 +68,9 @@ The website has been deployed using GitHub Pages and can be accessed [here](http
 
 ## Documentation  
 
-The full documentation of project can be found on my [Software Documentation Website](https://patrickschroeder98.github.io/software_documentation/matrix_library_docs/index.html) or alternatively in the [SDW documentation repository](https://github.com/PatrickSchroeder98/software_documentation/tree/main/matrix_library_docs).
+The full documentation of project can be found on my [Software Documentation Website](https://patrickschroeder98.github.io/software_documentation/fractal_art_docs/index.html) or alternatively in the [SDW documentation repository](https://github.com/PatrickSchroeder98/software_documentation/tree/main/fractal_art_docs).
+
+## Changelog
+1.0.2 - adjusted text in 'About' section
+1.0.1 - fixed images links, updated readme
+1.0.0 - initial release

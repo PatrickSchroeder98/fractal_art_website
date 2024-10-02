@@ -91,7 +91,7 @@
 
 @media (max-width: 426px) {
     .about-frame {
-        top: 60%;
+        top: 50%;
     }
 
     .about-content h1 {
@@ -110,7 +110,7 @@
 
 @media (max-width: 376px) {
     .about-frame {
-        top: 60%;
+        top: 50%;
     }
 
     .about-content h1 {
@@ -128,7 +128,7 @@
 
 @media (max-width: 321px) {
     .about-frame {
-        top: 50%;
+        top: 40%;
         padding: 10px;
     }
 
