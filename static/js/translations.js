@@ -41,7 +41,7 @@ const translations = {
         "jsd-size": "Size: Various resolutions of images",
         "jsd-description": "The Julia set is the second fractal that I'm exploring. Similar to the Mandelbrot set, I'm using various zoom levels and coloring functions. I also include a self-discovered modification in the equation that makes the lines in the background much more visible.",
 
-        "copyright": "\xa9 2024, Patrick Schröder, Fractal Art Website v1.0.1. All rights reserved. All logos are trademarks of their respective owners and are used here for informational purposes only.",
+        "copyright": "\xa9 2024, Patrick Schröder, Fractal Art Website v1.0.3. All rights reserved. All logos are trademarks of their respective owners and are used here for informational purposes only.",
     },
 
     pl: {
@@ -86,7 +86,7 @@ const translations = {
         "jsd-size": "Rozmiar: Różne rozdzielczości obrazów",
         "jsd-description": "Zbiór Julii to drugi fraktal, który eksploruję. Podobnie jak zbiór Mandelbrota, używam różnych poziomów powiększenia i funkcji kolorowania. Zawiera również samodzielnie odkrytą modyfikację w równaniu, która sprawia, że linie w tle stają się znacznie bardziej widoczne.",
 
-        "copyright": "\xa9 2024, Patrick Schröder, Strona o Fraktalnej Sztuce v1.0.1. Wszelkie prawa zastrzeżone. Wszystkie loga są znakami towarowymi ich właścicieli i są używane tutaj wyłącznie w celach informacyjnych.",
+        "copyright": "\xa9 2024, Patrick Schröder, Strona o Fraktalnej Sztuce v1.0.3. Wszelkie prawa zastrzeżone. Wszystkie loga są znakami towarowymi ich właścicieli i są używane tutaj wyłącznie w celach informacyjnych.",
     },
 
     de: {
@@ -131,6 +131,6 @@ const translations = {
         "jsd-size": "Größe: Verschiedene Bildauflösungen",
         "jsd-description": "Die Julia-Menge ist das zweite Fraktal, das ich erkunde. Ähnlich wie bei der Mandelbrot-Menge verwende ich verschiedene Zoomstufen und Farbgebungsfunktionen. Ich nehme auch eine selbst entdeckte Modifikation in die Gleichung auf, die die Linien im Hintergrund viel sichtbarer macht.",
 
-        "copyright": "\xa9 2024, Patrick Schröder, Fraktal-Kunst-Website v1.0.1. Alle Rechte vorbehalten. Alle Logos sind Marken ihrer jeweiligen Besitzer und werden hier nur zu Informationszwecken verwendet.",
+        "copyright": "\xa9 2024, Patrick Schröder, Fraktal-Kunst-Website v1.0.3. Alle Rechte vorbehalten. Alle Logos sind Marken ihrer jeweiligen Besitzer und werden hier nur zu Informationszwecken verwendet.",
     }
 }
