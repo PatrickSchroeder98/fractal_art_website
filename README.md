@@ -71,6 +71,7 @@ The website has been deployed using GitHub Pages and can be accessed [here](http
 The full documentation of project can be found on my [Software Documentation Website](https://patrickschroeder98.github.io/software_documentation/fractal_art_docs/index.html) or alternatively in the [SDW documentation repository](https://github.com/PatrickSchroeder98/software_documentation/tree/main/fractal_art_docs).
 
 ## Changelog  
+1.0.5 - redesigned 'About' page  
 1.0.4 - second update to Mandelbrot Set page  
 1.0.3 - added 2 new images for Mandelbrot Set  
 1.0.2 - adjusted text in 'About' section  

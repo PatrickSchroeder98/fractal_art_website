@@ -3,47 +3,60 @@ body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    height: 100%;
-}
-
-.hero-section {
-    background: url('../../assets/img/sesja3153.jpg') no-repeat center center/cover;
+    background-color: #111;
     color: #fff;
-    text-align: center;
-    background-size: contain;
-    width: 100%;
-    height: auto;
-    padding-bottom: 140.01%;
+}
+
+.about-section {
     display: flex;
-    justify-content: flex-end;
+    justify-content: center;
     align-items: center;
-    position: relative;
+    min-height: 100vh;
+    padding: 40px 5%;
 }
 
-.about-frame {
-    position: absolute;
-    top: 40%;
-    right: 0;
-    transform: translateY(-50%);
-    background-color: rgba(0, 0, 0, 0.5);
+.about-container {
+    display: flex;
+    align-items: center;
+    gap: 40px;
+    max-width: 1200px;
+    width: 100%;
+}
+
+.about-image img {
+    width: 60%;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(255, 255, 255, 0.2);
+}
+
+.about-text {
+    width: 300%;
     padding: 20px;
-    width: 40%;
-    border-radius: 8px 0 0 8px;
-    box-shadow: -2px 0 10px rgba(0, 0, 0, 0.2);
+    background: rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(255, 255, 255, 0.2);
 }
 
-.about-content h1 {
-    font-size: 3em;
-    padding-bottom: 40px;
-    margin: 0;
+.about-text h1 {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+    text-align: center;
 }
 
-.about-content p {
-    font-size: 1.8em;
-    margin: 10px 0 0;
+.about-text p {
+    font-size: 1.4em;
+    line-height: 1.6;
+    margin-bottom: 15px;
 }
 
-a {
-    font-family: 'Arial', sans-serif;
-    font-size: 1.8em;
+.about-text a {
+    font-size: 1.4em;
+    color: #ffcc00;
+    text-decoration: none;
 }
+
+.about-text a:hover {
+    text-decoration: underline;
+}
+
