@@ -19,6 +19,7 @@ const translations = {
         "about-text-4": "I also experiment with merging fractals with pictures. One particular achievement in this field is the draft of 'Spring Flowers.' You can see this painting printed and framed.",
         "about-text-5": "Now, I'm still creating various pieces of art, merging the sets and coloring them with RGB or HSV functions. The best paintings are printed and framed. The details are presented on this website.",
         "about-text-6": "To see more of my works, visit my",
+        "contact-header": "Contact Me",
 
         "artist": "Artist: Patrick Schröder",
         "ins-year": "Year: 2024",
@@ -41,7 +42,7 @@ const translations = {
         "jsd-size": "Size: Various resolutions of images",
         "jsd-description": "The Julia set is the second fractal that I'm exploring. Similar to the Mandelbrot set, I'm using various zoom levels and coloring functions. I also include a self-discovered modification in the equation that makes the lines in the background much more visible.",
 
-        "copyright": "\xa9 2024, Patrick Schröder, Fractal Art Website v1.0.5. All rights reserved. All logos are trademarks of their respective owners and are used here for informational purposes only.",
+        "copyright": "\xa9 2024, Patrick Schröder, Fractal Art Website v1.0.6. All rights reserved. All logos are trademarks of their respective owners and are used here for informational purposes only.",
     },
 
     pl: {
@@ -65,6 +66,7 @@ const translations = {
         "about-text-5": "Teraz wciąż tworzę różne dzieła sztuki, łącząc zbiory i kolorując je funkcjami RGB lub HSV. Najlepsze obrazy są drukowane i oprawiane. Szczegóły są prezentowane na tej stronie.", 
         "about-text-6": "Aby zobaczyć więcej moich prac, odwiedź mój",
         "artist": "Artysta: Patrick Schröder",
+        "contact-header": "Skontaktuj się ze mną",
 
         "ins-year": "Rok: 2024",
         "ins-medium": "Medium: Papier plakatowy 200; drukarka: Eco Solvent Mutoh",
@@ -86,7 +88,7 @@ const translations = {
         "jsd-size": "Rozmiar: Różne rozdzielczości obrazów",
         "jsd-description": "Zbiór Julii to drugi fraktal, który eksploruję. Podobnie jak zbiór Mandelbrota, używam różnych poziomów powiększenia i funkcji kolorowania. Zawiera również samodzielnie odkrytą modyfikację w równaniu, która sprawia, że linie w tle stają się znacznie bardziej widoczne.",
 
-        "copyright": "\xa9 2024, Patrick Schröder, Strona o Fraktalnej Sztuce v1.0.5. Wszelkie prawa zastrzeżone. Wszystkie loga są znakami towarowymi ich właścicieli i są używane tutaj wyłącznie w celach informacyjnych.",
+        "copyright": "\xa9 2024, Patrick Schröder, Strona o Fraktalnej Sztuce v1.0.6. Wszelkie prawa zastrzeżone. Wszystkie loga są znakami towarowymi ich właścicieli i są używane tutaj wyłącznie w celach informacyjnych.",
     },
 
     de: {
@@ -109,6 +111,7 @@ const translations = {
         "about-text-4": "Ich experimentiere auch mit der Verschmelzung von Fraktalen mit Bildern. Ein besonderes Highlight in diesem Bereich ist der Entwurf von 'Frühlingsblumen'. Sie können dieses Gemälde gedruckt und gerahmt sehen.", 
         "about-text-5": "Derzeit erstelle ich weiterhin verschiedene Kunstwerke, indem ich die Mengen kombiniere und sie mit RGB- oder HSV-Funktionen einfärbe. Die besten Gemälde werden gedruckt und gerahmt. Die Details werden auf dieser Website präsentiert.", 
         "about-text-6": "Um mehr von meinen Arbeiten zu sehen, besuchen Sie mein",
+        "contact-header": "Kontaktieren Sie mich",
 
         "artist": "Künstler: Patrick Schröder",
         "ins-year": "Jahr: 2024",
@@ -131,6 +134,6 @@ const translations = {
         "jsd-size": "Größe: Verschiedene Bildauflösungen",
         "jsd-description": "Die Julia-Menge ist das zweite Fraktal, das ich erkunde. Ähnlich wie bei der Mandelbrot-Menge verwende ich verschiedene Zoomstufen und Farbgebungsfunktionen. Ich nehme auch eine selbst entdeckte Modifikation in die Gleichung auf, die die Linien im Hintergrund viel sichtbarer macht.",
 
-        "copyright": "\xa9 2024, Patrick Schröder, Fraktal-Kunst-Website v1.0.5. Alle Rechte vorbehalten. Alle Logos sind Marken ihrer jeweiligen Besitzer und werden hier nur zu Informationszwecken verwendet.",
+        "copyright": "\xa9 2024, Patrick Schröder, Fraktal-Kunst-Website v1.0.6. Alle Rechte vorbehalten. Alle Logos sind Marken ihrer jeweiligen Besitzer und werden hier nur zu Informationszwecken verwendet.",
     }
 }
