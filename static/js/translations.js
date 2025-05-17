@@ -27,6 +27,12 @@ const translations = {
         "ins-size": "Size: 124,5 cm x 89 cm",
         "ins-description": "This painting represents an idea forming in the mind. The viewer can see the clarified idea in the center, as well as a shadow in the background representing the idea that has not fully formed. Both the idea and the shadow share the same shape, symbolizing the connection between these two elements. Some parts of the idea are visible behind a fog, representing the need for learning and exploration while being inspired.",
 
+        "rel-title": `"Religiosity"`,
+        "rel-year": "Year: 2024",
+        "rel-medium": "Medium: Poster paper 200; printer: Eco Solvent Mutoh",
+        "rel-size": "Size: 89 cm x 68 cm",
+        "rel-description": "This painting represents a state of religiosity. The harmonious patterns symbolize the calm and inner peace often associated with spiritual enlightenment. The angel in the background references a higher force that enables a connection with the spiritual realm. Its color, blending with the background, also reflects how spiritual influences are often subtle and may go unnoticed.",
+
         "sfd-year": "Year: 2024",
         "sfd-medium": "Medium: Poster paper",
         "sfd-size": "Size: 32,5 cm x 40,5 cm ",
@@ -42,7 +48,7 @@ const translations = {
         "jsd-size": "Size: Various resolutions of images",
         "jsd-description": "The Julia set is the second fractal that I'm exploring. Similar to the Mandelbrot set, I'm using various zoom levels and coloring functions. I also include a self-discovered modification in the equation that makes the lines in the background much more visible.",
 
-        "copyright": "\xa9 2024, Patrick Schröder, Fractal Art Website v1.0.6. All rights reserved. All logos are trademarks of their respective owners and are used here for informational purposes only.",
+        "copyright": "\xa9 2024, Patrick Schröder, Fractal Art Website v1.1.0. All rights reserved. All logos are trademarks of their respective owners and are used here for informational purposes only.",
     },
 
     pl: {
@@ -73,6 +79,12 @@ const translations = {
         "ins-size": "Rozmiar: 124,5 cm x 89 cm",
         "ins-description": "To dzieło przedstawia ideę formującą się w umyśle. Widz może zobaczyć wyraźną ideę w centrum, a także cień w tle reprezentujący ideę, która nie jest jeszcze w pełni uformowana. Zarówno idea, jak i cień mają ten sam kształt, symbolizując związek między tymi dwoma elementami. Niektóre części idei są widoczne za mgłą, co reprezentuje potrzebę nauki i eksploracji podczas bycia zainspirowanym.",
 
+        "rel-title": `"Religijność"`,
+        "rel-year": "Rok: 2024",
+        "rel-medium": "Medium: Papier plakatowy 200; drukarka: Eco Solvent Mutoh",
+        "rel-size": "Rozmiar: 89 cm x 68 cm",
+        "rel-description": "Ten obraz przedstawia stan religijności. Harmonijne wzory symbolizują spokój i wewnętrzny pokój często kojarzony z duchowym oświeceniem. Anioł w tle nawiązuje do wyższej siły, która umożliwia połączenie z duchowym królestwem. Jego kolor, mieszający się z tłem, odzwierciedla również, jak duchowe wpływy są często subtelne i mogą pozostać niezauważone.",
+
         "sfd-year": "Rok: 2024",
         "sfd-medium": "Medium: Papier plakatowy",
         "sfd-size": "Rozmiar: 32,5 cm x 40,5 cm",
@@ -88,7 +100,7 @@ const translations = {
         "jsd-size": "Rozmiar: Różne rozdzielczości obrazów",
         "jsd-description": "Zbiór Julii to drugi fraktal, który eksploruję. Podobnie jak zbiór Mandelbrota, używam różnych poziomów powiększenia i funkcji kolorowania. Zawiera również samodzielnie odkrytą modyfikację w równaniu, która sprawia, że linie w tle stają się znacznie bardziej widoczne.",
 
-        "copyright": "\xa9 2024, Patrick Schröder, Strona o Fraktalnej Sztuce v1.0.6. Wszelkie prawa zastrzeżone. Wszystkie loga są znakami towarowymi ich właścicieli i są używane tutaj wyłącznie w celach informacyjnych.",
+        "copyright": "\xa9 2024, Patrick Schröder, Strona o Fraktalnej Sztuce v1.1.0. Wszelkie prawa zastrzeżone. Wszystkie loga są znakami towarowymi ich właścicieli i są używane tutaj wyłącznie w celach informacyjnych.",
     },
 
     de: {
@@ -119,6 +131,12 @@ const translations = {
         "ins-size": "Größe: 124,5 cm x 89 cm",
         "ins-description": "Dieses Gemälde stellt eine Idee dar, die sich im Kopf formt. Der Betrachter kann die geklärte Idee in der Mitte sehen, sowie einen Schatten im Hintergrund, der die noch nicht vollständig ausgeformte Idee darstellt. Sowohl die Idee als auch der Schatten teilen die gleiche Form, was die Verbindung zwischen diesen beiden Elementen symbolisiert. Einige Teile der Idee sind hinter einem Nebel sichtbar, was die Notwendigkeit von Lernen und Erkundung bei gleichzeitiger Inspiration repräsentiert.",
 
+        "rel-title": `"Religiosität"`,
+        "rel-year": "Jahr: 2024",
+        "rel-medium": "Medium: Posterpapier 200; Drucker: Eco Solvent Mutoh",
+        "rel-size": "Größe: 89 cm x 68 cm",
+        "rel-description": "Dieses Gemälde stellt den Zustand der Religiosität dar. Harmonische Muster symbolisieren inneren Frieden, der oft mit spiritueller Erleuchtung in Verbindung gebracht wird. Der Engel im Hintergrund verweist auf eine höhere Macht, die eine Verbindung mit der geistigen Welt ermöglicht. Seine mit dem Hintergrund verschmelzende Farbe spiegelt auch wider, dass spirituelle Einflüsse oft subtil sind und unbemerkt bleiben können.",
+
         "sfd-year": "Jahr: 2024",
         "sfd-medium": "Medium: Posterpapier",
         "sfd-size": "Größe: 32,5 cm x 40,5 cm",
@@ -134,6 +152,6 @@ const translations = {
         "jsd-size": "Größe: Verschiedene Bildauflösungen",
         "jsd-description": "Die Julia-Menge ist das zweite Fraktal, das ich erkunde. Ähnlich wie bei der Mandelbrot-Menge verwende ich verschiedene Zoomstufen und Farbgebungsfunktionen. Ich nehme auch eine selbst entdeckte Modifikation in die Gleichung auf, die die Linien im Hintergrund viel sichtbarer macht.",
 
-        "copyright": "\xa9 2024, Patrick Schröder, Fraktal-Kunst-Website v1.0.6. Alle Rechte vorbehalten. Alle Logos sind Marken ihrer jeweiligen Besitzer und werden hier nur zu Informationszwecken verwendet.",
+        "copyright": "\xa9 2024, Patrick Schröder, Fraktal-Kunst-Website v1.1.0. Alle Rechte vorbehalten. Alle Logos sind Marken ihrer jeweiligen Besitzer und werden hier nur zu Informationszwecken verwendet.",
     }
 }
