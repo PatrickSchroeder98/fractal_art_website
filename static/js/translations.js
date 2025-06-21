@@ -21,28 +21,33 @@ const translations = {
         "about-text-6": "To see more of my works, visit my",
         "contact-header": "Contact Me",
 
+        "title-inspiration": "Inspiration - Fractal Art",
         "artist": "Artist: Patrick Schröder",
         "ins-year": "Year: 2024",
         "ins-medium": "Medium: Poster paper 200; printer: Eco Solvent Mutoh",
         "ins-size": "Size: 124,5 cm x 89 cm",
         "ins-description": "This painting represents an idea forming in the mind. The viewer can see the clarified idea in the center, as well as a shadow in the background representing the idea that has not fully formed. Both the idea and the shadow share the same shape, symbolizing the connection between these two elements. Some parts of the idea are visible behind a fog, representing the need for learning and exploration while being inspired.",
 
+        "title-religiosity": "Religiosity - Fractal Art",
         "rel-title": `"Religiosity"`,
         "rel-year": "Year: 2024",
         "rel-medium": "Medium: Poster paper 200; printer: Eco Solvent Mutoh",
         "rel-size": "Size: 89 cm x 68 cm",
         "rel-description": "This painting represents a state of religiosity. The harmonious patterns symbolize the calm and inner peace often associated with spiritual enlightenment. The angel in the background references a higher force that enables a connection with the spiritual realm. Its color, blending with the background, also reflects how spiritual influences are often subtle and may go unnoticed.",
-
+        
+        "title-sfd": "Spring Flowers Draft - Fractal Art",
         "sfd-year": "Year: 2024",
         "sfd-medium": "Medium: Poster paper",
         "sfd-size": "Size: 32,5 cm x 40,5 cm ",
         "sfd-description": "This draft was created using a technique that merges fractals with photos. It creates a unique blend of realism and abstraction, playing with shapes and colors. Printed and framed, this painting is a testament to the various possibilities that the Python programming language can offer in the field of digital art.",
 
+        "title-msd": "Mandelbrot Set Drafts - Fractal Art",
         "msd-year": "Year: 2022 - 2024",
         "msd-medium": "Medium: Digital files",
         "msd-size": "Size: Various resolutions of images ",
         "msd-description": "The Mandelbrot set marks the beginning of my digital art journey. I have created many drafts, which are presented here and on Instagram. I am still experimenting with various zoom levels, colored using RGB or HSV functions.",
 
+        "title-jsd": "Julia Set Drafts - Fractal Art",
         "jsd-year": "Year: 2022 - 2024",
         "jsd-medium": "Medium: Digital files",
         "jsd-size": "Size: Various resolutions of images",
@@ -74,27 +79,32 @@ const translations = {
         "artist": "Artysta: Patrick Schröder",
         "contact-header": "Skontaktuj się ze mną",
 
+        "title-inspiration": "Inspiracja - Fraktalna Sztuka",
         "ins-year": "Rok: 2024",
         "ins-medium": "Medium: Papier plakatowy 200; drukarka: Eco Solvent Mutoh",
         "ins-size": "Rozmiar: 124,5 cm x 89 cm",
         "ins-description": "To dzieło przedstawia ideę formującą się w umyśle. Widz może zobaczyć wyraźną ideę w centrum, a także cień w tle reprezentujący ideę, która nie jest jeszcze w pełni uformowana. Zarówno idea, jak i cień mają ten sam kształt, symbolizując związek między tymi dwoma elementami. Niektóre części idei są widoczne za mgłą, co reprezentuje potrzebę nauki i eksploracji podczas bycia zainspirowanym.",
 
+        "title-religiosity": "Religijność - Fraktalna Sztuka",
         "rel-title": `"Religijność"`,
         "rel-year": "Rok: 2024",
         "rel-medium": "Medium: Papier plakatowy 200; drukarka: Eco Solvent Mutoh",
         "rel-size": "Rozmiar: 89 cm x 68 cm",
         "rel-description": "Ten obraz przedstawia stan religijności. Harmonijne wzory symbolizują spokój i wewnętrzny pokój często kojarzony z duchowym oświeceniem. Anioł w tle nawiązuje do wyższej siły, która umożliwia połączenie z duchowym królestwem. Jego kolor, mieszający się z tłem, odzwierciedla również, jak duchowe wpływy są często subtelne i mogą pozostać niezauważone.",
 
+        "title-sfd": "Szkic Wiosenne Kwiaty - Fraktalna Sztuka",
         "sfd-year": "Rok: 2024",
         "sfd-medium": "Medium: Papier plakatowy",
         "sfd-size": "Rozmiar: 32,5 cm x 40,5 cm",
         "sfd-description": "Ten szkic został stworzony za pomocą techniki łączącej fraktale ze zdjęciami. Tworzy to unikalną mieszankę realizmu i abstrakcji, bawiąc się kształtami i kolorami. Wydrukowane i oprawione, to dzieło jest świadectwem różnych możliwości, jakie oferuje język programowania Python w dziedzinie sztuki cyfrowej.",
 
+        "title-msd": "Szkice Zbioru Mandelbrota - Fraktalna Sztuka",
         "msd-year": "Rok: 2022 - 2024",
         "msd-medium": "Medium: Pliki cyfrowe",
         "msd-size": "Rozmiar: Różne rozdzielczości obrazów",
         "msd-description": "Zbiór Mandelbrota oznacza początek mojej podróży w sztuce cyfrowej. Stworzyłem wiele szkiców, które są prezentowane tutaj i na Instagramie. Nadal eksperymentuję z różnymi poziomami powiększenia, kolorując je funkcjami RGB lub HSV.",
 
+        "title-jsd": "Szkice Zbioru Julii - Fraktalna Sztuka",
         "jsd-year": "Rok: 2022 - 2024",
         "jsd-medium": "Medium: Pliki cyfrowe",
         "jsd-size": "Rozmiar: Różne rozdzielczości obrazów",
@@ -125,28 +135,33 @@ const translations = {
         "about-text-6": "Um mehr von meinen Arbeiten zu sehen, besuchen Sie mein",
         "contact-header": "Kontaktieren Sie mich",
 
+        "title-inspiration": "Inspiration - Fraktal-Kunst",
         "artist": "Künstler: Patrick Schröder",
         "ins-year": "Jahr: 2024",
         "ins-medium": "Medium: Posterpapier 200; Drucker: Eco Solvent Mutoh",
         "ins-size": "Größe: 124,5 cm x 89 cm",
         "ins-description": "Dieses Gemälde stellt eine Idee dar, die sich im Kopf formt. Der Betrachter kann die geklärte Idee in der Mitte sehen, sowie einen Schatten im Hintergrund, der die noch nicht vollständig ausgeformte Idee darstellt. Sowohl die Idee als auch der Schatten teilen die gleiche Form, was die Verbindung zwischen diesen beiden Elementen symbolisiert. Einige Teile der Idee sind hinter einem Nebel sichtbar, was die Notwendigkeit von Lernen und Erkundung bei gleichzeitiger Inspiration repräsentiert.",
 
+        "title-religiosity": "Religiosität - Fraktal-Kunst",
         "rel-title": `"Religiosität"`,
         "rel-year": "Jahr: 2024",
         "rel-medium": "Medium: Posterpapier 200; Drucker: Eco Solvent Mutoh",
         "rel-size": "Größe: 89 cm x 68 cm",
         "rel-description": "Dieses Gemälde stellt den Zustand der Religiosität dar. Harmonische Muster symbolisieren inneren Frieden, der oft mit spiritueller Erleuchtung in Verbindung gebracht wird. Der Engel im Hintergrund verweist auf eine höhere Macht, die eine Verbindung mit der geistigen Welt ermöglicht. Seine mit dem Hintergrund verschmelzende Farbe spiegelt auch wider, dass spirituelle Einflüsse oft subtil sind und unbemerkt bleiben können.",
-
+        
+        "title-sfd": "Frühlingsblumen-Entwurf - Fraktal-Kunst",
         "sfd-year": "Jahr: 2024",
         "sfd-medium": "Medium: Posterpapier",
         "sfd-size": "Größe: 32,5 cm x 40,5 cm",
         "sfd-description": "Dieser Entwurf wurde mit einer Technik erstellt, die Fraktale mit Fotos verbindet. Es entsteht eine einzigartige Mischung aus Realismus und Abstraktion, die mit Formen und Farben spielt. Gedruckt und gerahmt ist dieses Gemälde ein Zeugnis für die verschiedenen Möglichkeiten, die die Programmiersprache Python im Bereich der digitalen Kunst bieten kann.",
 
+        "title-msd": "Mandelbrot-Mengen-Entwürfe - Fraktal-Kunst",
         "msd-year": "Jahr: 2022 - 2024",
         "msd-medium": "Medium: Digitale Dateien",
         "msd-size": "Größe: Verschiedene Bildauflösungen",
         "msd-description": "Die Mandelbrot-Menge markiert den Beginn meiner Reise in der digitalen Kunst. Ich habe viele Entwürfe erstellt, die hier und auf Instagram präsentiert werden. Ich experimentiere weiterhin mit verschiedenen Zoomstufen, eingefärbt mit RGB- oder HSV-Funktionen.",
 
+        "title-jsd": "Julia-Mengen-Entwürfe - Fraktal-Kunst",
         "jsd-year": "Jahr: 2022 - 2024",
         "jsd-medium": "Medium: Digitale Dateien",
         "jsd-size": "Größe: Verschiedene Bildauflösungen",
