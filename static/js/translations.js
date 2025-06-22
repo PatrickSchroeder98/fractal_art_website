@@ -12,6 +12,7 @@ const translations = {
         "msd-title": "Mandelbrot Set Drafts",
         "view-more": "View more",
 
+        "title-about": "About me - Fractal Art Website",
         "about-title": "About me",
         "about-text-1": "I'm Patrick Schröder, a software engineer with a master's degree in computer science. My passion for fractals started when I got an assignment at the University of Łódź to generate the Mandelbrot set. Since then, I have been creating designs, exploring the sets by zooming in on various coordinates.",
         "about-text-2": "I also started to develop Julia set drafts as well as other fractals. My recent painting 'Anxiety' uses the shape of the Burning Ship fractal.",
@@ -69,6 +70,7 @@ const translations = {
         "msd-title": "Szkice Zbioru Mandelbrota",
         "view-more": "Zobacz więcej",
 
+        "title-about": "O mnie - Fraktalna Sztuka",
         "about-title": "O mnie",
         "about-text-1": "Nazywam się Patrick Schröder, jestem inżynierem oprogramowania z tytułem magistra informatyki. Moja pasja do fraktali zaczęła się, gdy na Uniwersytecie Łódzkim otrzymałem zadanie wygenerowania zbioru Mandelbrota. Od tego czasu tworzę projekty, eksplorując zbiory poprzez powiększanie różnych współrzędnych.",
         "about-text-2": "Zacząłem także tworzyć szkice zbioru Julii, jak również innych fraktali. Moje ostatnie dzieło 'Lęk' wykorzystuje kształt fraktalu Płonącego Statku.",
@@ -126,6 +128,7 @@ const translations = {
         "msd-title": "Mandelbrot-Mengen-Entwürfe",
         "view-more": "Mehr ansehen",
 
+        "title-about": "Über mich - Fraktal-Kunst-Website",
         "about-title": "Über mich",
         "about-text-1": "Ich bin Patrick Schröder, ein Software-Ingenieur mit einem Master-Abschluss in Informatik. Meine Leidenschaft für Fraktale begann, als ich an der Universität Łódź die Aufgabe erhielt, die Mandelbrot-Menge zu generieren. Seitdem entwerfe ich Designs und erkunde die Menge, indem ich auf verschiedene Koordinaten zoome.",
         "about-text-2": "Ich begann auch, Julia-Mengen-Entwürfe sowie andere Fraktale zu entwickeln. Mein jüngstes Gemälde 'Anxiety' verwendet die Form des Burning-Ship-Fraktals.",
