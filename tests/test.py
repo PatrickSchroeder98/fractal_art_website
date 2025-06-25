@@ -115,6 +115,90 @@ class FractalArtWebsiteTests(unittest.TestCase):
         self.assertIsNotNone(img)
         self.assertEqual(img.get_attribute("alt"), "Mandelbrot Set")
 
+    def test_img_about(self):
+        """Method that checks if image on the 'about' page has correct attributes."""
+        self.driver.find_element(By.CSS_SELECTOR, "a[data-i18n='nav-about']").click()
+        img = self.driver.find_element(By.CSS_SELECTOR, "img[src='./assets/img/sesja3153.jpg']")
+        self.assertIsNotNone(img)
+        self.assertEqual(img.get_attribute("alt"), "Artist Photo")
+
+
+    def test_img_religiosity(self):
+        """Method that checks if image on the religiosity page has correct attributes."""
+        self.driver.find_element(By.CSS_SELECTOR, "h2[data-i18n='rel-title'] + a").click()
+        img = self.driver.find_element(By.CSS_SELECTOR, "img[src='./assets/img/religiosity.jpg']")
+        self.assertIsNotNone(img)
+        self.assertEqual(img.get_attribute("alt"), "Religiosity Painting")
+
+    def test_img_inspiration(self):
+        """Method that checks if image on the inspiration page has correct attributes."""
+        self.driver.find_element(By.CSS_SELECTOR, "h2[data-i18n='ins-title'] + a").click()
+        img = self.driver.find_element(By.CSS_SELECTOR, "img[src='./assets/img/inspiration.jpg']")
+        self.assertIsNotNone(img)
+        self.assertEqual(img.get_attribute("alt"), "Inspiration Painting")
+
+    def test_img_flowers(self):
+        """Method that checks if image on the spring flowers page has correct attributes."""
+        self.driver.find_element(By.CSS_SELECTOR, "h2[data-i18n='sfd-title'] + a").click()
+        img = self.driver.find_element(By.CSS_SELECTOR, "img[src='./assets/img/flowers.jpg']")
+        self.assertIsNotNone(img)
+        self.assertEqual(img.get_attribute("alt"), "Spring Flowers Draft")
+
+    def test_img_jsd(self):
+        """Method that checks if images on the julia set page have correct attributes."""
+        self.driver.find_element(By.CSS_SELECTOR, "h2[data-i18n='jsd-title'] + a").click()
+
+        img = self.driver.find_element(By.CSS_SELECTOR, "img[src='./assets/img/set9.png']")
+        self.assertIsNotNone(img)
+        self.assertEqual(img.get_attribute("alt"), "Draft - White On Black")
+
+        img = self.driver.find_element(By.CSS_SELECTOR, "img[src='./assets/img/set9a.png']")
+        self.assertIsNotNone(img)
+        self.assertEqual(img.get_attribute("alt"), "Draft - Red On White")
+
+        img = self.driver.find_element(By.CSS_SELECTOR, "img[src='./assets/img/set2.png']")
+        self.assertIsNotNone(img)
+        self.assertEqual(img.get_attribute("alt"), "Close-Up - Black On White")
+
+        img = self.driver.find_element(By.CSS_SELECTOR, "img[src='./assets/img/set888.png']")
+        self.assertIsNotNone(img)
+        self.assertEqual(img.get_attribute("alt"), "Close-Up - Red On Yellow")
+
+    def test_img_msd(self):
+        """Method that checks if images on the mandelbrot set page have correct attributes."""
+        self.driver.find_element(By.CSS_SELECTOR, "h2[data-i18n='msd-title'] + a").click()
+
+        img = self.driver.find_element(By.CSS_SELECTOR, "img[src='./assets/img/set3.png']")
+        self.assertIsNotNone(img)
+        self.assertEqual(img.get_attribute("alt"), "Draft - Black On White")
+
+        img = self.driver.find_element(By.CSS_SELECTOR, "img[src='./assets/img/2407_3.png']")
+        self.assertIsNotNone(img)
+        self.assertEqual(img.get_attribute("alt"), "Close-Up - White On Black")
+
+        img = self.driver.find_element(By.CSS_SELECTOR, "img[src='./assets/img/hsv9a.png']")
+        self.assertIsNotNone(img)
+        self.assertEqual(img.get_attribute("alt"), "Close-Up - Black on Blue-Red")
+
+        img = self.driver.find_element(By.CSS_SELECTOR, "img[src='./assets/img/hsv_rotated_spiral_zoom2.png']")
+        self.assertIsNotNone(img)
+        self.assertEqual(img.get_attribute("alt"), "Close-Up - Black on Blue-Purple")
+
+        img = self.driver.find_element(By.CSS_SELECTOR, "img[src='./assets/img/hsv_rotated_spiral_zoom3.png']")
+        self.assertIsNotNone(img)
+        self.assertEqual(img.get_attribute("alt"), "Close-Up - Black on Green Spectrum")
+
+        img = self.driver.find_element(By.CSS_SELECTOR, "img[src='./assets/img/hsv4.png']")
+        self.assertIsNotNone(img)
+        self.assertEqual(img.get_attribute("alt"), "Close-Up - Red on Green-Blue Spectrum")
+
+        img = self.driver.find_element(By.CSS_SELECTOR, "img[src='./assets/img/hsv_rotated_spiral_zoom4.png']")
+        self.assertIsNotNone(img)
+        self.assertEqual(img.get_attribute("alt"), "Close-Up - Black on Blue")
+
+        img = self.driver.find_element(By.CSS_SELECTOR, "img[src='./assets/img/hsv_rotated_spiral_zoom5.png']")
+        self.assertIsNotNone(img)
+        self.assertEqual(img.get_attribute("alt"), "Close-Up - Black on Pink-Purple Spectrum")
 
     @classmethod
     def tearDownClass(cls):

@@ -71,6 +71,7 @@ The website has been deployed using GitHub Pages and can be accessed [here](http
 The full documentation of project can be found on my [Software Documentation Website](https://patrickschroeder98.github.io/software_documentation/fractal_art_docs/index.html) or alternatively in the [SDW documentation repository](https://github.com/PatrickSchroeder98/software_documentation/tree/main/fractal_art_docs).
 
 ## Changelog  
+1.1.2 - updated Selenium tests  
 1.1.1 - added Selenium tests  
 1.1.0 - added page about "Religiosity" painting  
 1.0.6 - added contact section to 'About' page  
